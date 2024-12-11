@@ -1,4 +1,8 @@
-## Hi there 👋
+🍰 About Me
+
+🔭 主要使用: Python, Java, C++
+🌐 Languages: 中文, English
+🤔 学习中，是个蒟蒻渣渣
 
 <!--
 **emmm1245/emmm1245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
