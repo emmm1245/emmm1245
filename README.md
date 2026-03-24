@@ -1,8 +1,10 @@
 🍰 About Me
 
-- 🔭 主要使用: Python, Java
+- 🔭 主要使用: Python, Java, TS
 - 🌐 Languages: 中文, English
 - 🤔 学习中，是个蒟蒻渣渣
+- 联系方式：
+  qq：1327804084
 
 <!--
 **emmm1245/emmm1245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
