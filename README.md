@@ -2,7 +2,7 @@
 
 - 🔭 主要使用: Python, Java, TS
 - 🌐 Languages: 中文, English
-- 🤔 学习中，是个蒟蒻渣渣
+- 🤔 学习中……
 - 联系方式：
   qq：1327804084
 
