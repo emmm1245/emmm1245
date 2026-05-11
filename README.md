@@ -1,6 +1,6 @@
 🍰 About Me
 
-- 🔭 主要使用: Python, Java, TS
+- 🔭 主要使用: Python, Java, TypeScript
 - 🌐 Languages: 中文, English
 - 🤔 学习中……
 - 联系方式：
