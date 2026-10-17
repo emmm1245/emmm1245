@@ -4,7 +4,7 @@
 - 🌐 Languages: 中文, English
 - 🤔 学习中……
 - 联系方式：
-  qq：1327804084
+  qq-1327804084
 
 <!--
 **emmm1245/emmm1245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
